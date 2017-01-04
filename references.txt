@@ -1,0 +1,9 @@
+REFERENCES
+- https://www.tutorialspoint.com/sqlite/
+- Udacity Forums
+- https://www.techonthenet.com/sqlite/
+- http://wiki.openstreetmap.org/wiki/Main_Page
+- http://www.dataquest.io/blog/python-pandas-databases/
+- https://gist.github.com/peteWT/3410263
+- http://stackoverflow.com/questions/20252669/get-files-from-directory-argument-sorting-by-size
+- http://stackoverflow.com/questions/6860746/sql-selecting-multiple-columns-based-on-max-value-in-one-column
