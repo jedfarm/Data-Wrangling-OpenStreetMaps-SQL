@@ -4,6 +4,9 @@ We chose a metro area in the US and using the freely available data from OpenStr
 
 MAP AREA: Tampa FL United States.
 
+![image](https://github.com/jedfarm/Data-Wrangling-OpenStreetMaps-SQL/blob/master/TampaBay.png)
+
+
 MapZen URL: https://mapzen.com/data/metro-extracts/metro/tampa_florida/
 
 OSM XML 23 MB file, direct link:
